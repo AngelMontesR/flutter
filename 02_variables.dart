@@ -22,6 +22,7 @@ void main()
     $abilities
     $sprites
     $errorMessage
+    $isAlive
   """);
 
   /* Tipos de datos */
