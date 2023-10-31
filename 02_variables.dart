@@ -23,5 +23,17 @@ void main()
     $sprites
     $errorMessage
   """);
+
+  /* Tipos de datos */
+  // final -> No cambia el valor
+  // const -> No cambia el valor
+  // var -> Cambia el valor
+  // dynamic -> Cambia el valor
+
+  // Diferebcia entre final y const
+  // final -> Se puede definir en tiempo de ejecución
+  // const -> Se debe definir en tiempo de compilación
   
+  //dynamic -> siempre sera null si no se asigna
+
 }
